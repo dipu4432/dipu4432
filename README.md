@@ -6,7 +6,7 @@ Frondend Developer
 
 I am a frontend developer who loves react!
 
-* 🌍  I'm based in Hyderabad India
+* 🌍  I'm based in Patna India
 * ✉️  You can contact me at [dipukumarpojhi@gmail.com](mailto:dipukumarpojhi@gmail.com)
 * 🧠  I'm learning IONIC framwork.
 * 🤝  I'm open to collaborating on Interesting Projects
